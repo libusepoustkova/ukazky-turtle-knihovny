@@ -45,7 +45,7 @@ t.pu()
 t.goto(-140, -80)
 t.pd()
 
-jmena = ["ada", "eva", "tom", "míša", "mintaka"]
+jmena = ["ada", "eva", "tom", "míša", "mintaka","liba"]
 jmena.sort()
 
 for i in jmena:
